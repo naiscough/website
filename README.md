@@ -1,4 +1,4 @@
-# Media-website-Client-Server
+# Movie-WebPortal-Client-Server
 A website to watch list of media with operations on the media.
 You can add a new media, delete media from the list, update media, add actor and watch actors list.
 The media arrenged in a table, where the user can sort the table by rating, name or relase date
